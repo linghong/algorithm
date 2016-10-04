@@ -10,3 +10,9 @@
   2).get the result for the product of the largest three number   
 ##### 2.When no more than one smallest number is negative
    get the product of the largest three number
+
+-Use a HashSet or a HashMap to rearrange the data
+###Dinstinct-codility
+#### Code: Distinct.java 
+#### Key Point: 
+	rearrange the data in a HashSet
