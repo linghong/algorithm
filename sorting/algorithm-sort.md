@@ -16,3 +16,10 @@
 #### Code: Distinct.java 
 #### Key Point: 
 	rearrange the data in a HashSet
+
+##Merge sort
+#### Code: Triangle.java 
+#### Key Point:
+##### 1.sort the array first
+##### 2.when a<b<c, ==> b+c>a, a+c>b, hence, we only need to look for a+b>c
+##### 3.if A[i]+A[i+1>A[i+2] does not exist, the answer is negative.
