@@ -2,22 +2,31 @@
 
 ##I Array
 ### [LeftRotation-hackerrank](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
-#### Code: [LeftRotation.java](/data-structure/Leftrotation.java)
+#### Code: [LeftRotation.java](/data-structure/Leftrotation.java) 
 
-##II. Stack
-###Nesting-codility
+
+##II String
+### [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)
+#### Code: [MakingAnagrams.java](/data-structure/MakingAnagrams.java)
+#### Key Points:
+##### make an array that records the number of each letter in the string
+
+
+##III. Stack
+### [Nesting-codility](https://codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
 #### Code: [Nesting.java](/data-structure/Nesting.java) 
-#### Key Point:
+#### Key Points:
 ##### push all the '(' onto a stack, pop it up when a ')' is found.
 
-###Fish-codility
+### [Fish-codility](https://codility.com/programmers/lessons/7-stacks_and_queues/fish/)
 #### Code [Fish.java](/data-structure/Fish.java)
 #### Key Point:
 ##### 1.Loop through from upstream to downstream while pushing fishes swimming downstream onto a stack.
 ##### 2.when meeting a fish swimming upstream, compare their size and decide who will be eaten.
 ##### 3.if the stack is empty, that means fish swimming upstream win, increase count;
 
-##III. Linked List
+
+##IV. Linked List
 ### Delete node -Leetcode
 #### Code: [DeleteNode.java](/data-structure/Deletenode.java)
 #### Key Point:
