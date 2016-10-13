@@ -1,6 +1,10 @@
 #Data Structure
 
-##I. Stack
+##I Array
+### [LeftRotation-hackerrank](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+#### Code: [LeftRotation.java](/data-structure/Leftrotation.java)
+
+##II. Stack
 ###Nesting-codility
 #### Code: [Nesting.java](/data-structure/Nesting.java) 
 #### Key Point:
@@ -13,7 +17,7 @@
 ##### 2.when meeting a fish swimming upstream, compare their size and decide who will be eaten.
 ##### 3.if the stack is empty, that means fish swimming upstream win, increase count;
 
-##II. Linked List
+##III. Linked List
 ### Delete node -Leetcode
 #### Code: [DeleteNode.java](/data-structure/Deletenode.java)
 #### Key Point:
